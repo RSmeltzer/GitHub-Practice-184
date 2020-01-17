@@ -35,7 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
-| Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
+| Richard Smeltzer  | Section 001       | RSmeltzer            | https://rsmeltzer.github.io/Stat-184/ |
 
 
 <br>
